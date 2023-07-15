@@ -1,0 +1,2 @@
+# SyntheticJavaCore
+Synthetic Java Core
